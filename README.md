@@ -59,6 +59,8 @@ The installation of SBT is totally according to this [tutorial](http://dblab.xmu
 
 ## Usage
 
+Step 1 and Step 2 are to package the scala source code into a `.jar` file. I have packaged them for scala 1.2 and Spark 3.2.0, which are in `Jar Package` folder.
+
 ### Step 1: Configure SBT
 
 After installing SBT, use vim to create a file under the SBT installation path(mine is `/usr/local/sbt`)，**this file is used for build scala code**.
