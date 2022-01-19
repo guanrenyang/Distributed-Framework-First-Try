@@ -1,6 +1,6 @@
-# CS236-Cloud-Computing
+# Distributed Framework First Try (分布式框架初体验)
 
-This project will give you an excellent try of Hadoop & Spark & GraphX.
+Project of **CS236 Cloud Computing, Shanghai Jiao Tong University**, which will give you an excellent experience of **Hadoop & Spark & GraphX**.
 
 Just enjoy distributed computing!
 
