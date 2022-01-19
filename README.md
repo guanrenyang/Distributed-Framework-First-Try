@@ -1,5 +1,9 @@
 # CS236-Cloud-Computing
 
+This project will give you an excellent try of Hadoop & Spark & GraphX.
+
+Just enjoy distributed computing!
+
 ## Introduction
 
 This project uses the Hadoop and Spark distributed framework to build clusters on three hosts, and uses the GraphX API to implement [ConnectedComponents](https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/graphx/ConnectedComponentsExample.scala) and PageRank algorithm.
