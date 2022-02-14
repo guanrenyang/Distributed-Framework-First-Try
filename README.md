@@ -1,4 +1,4 @@
-# Distributed Framework First Try (分布式框架初体验)
+# Distributed Framework First Try
 
 Project of **CS236 Cloud Computing, Shanghai Jiao Tong University**, which will give you an excellent experience of **Hadoop & Spark & GraphX**.
 
